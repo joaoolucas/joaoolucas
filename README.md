@@ -5,7 +5,7 @@
 
 ## About me ⌨️	
 
-I am a student of Statistics and Data Science at the University of São Paulo (USP), currently learning Python and R to Data Science, Machine Learning and Artificial Intelligence. 
+I am a student of Statistics and Data Science at the University of São Paulo (USP), currently studying data science, machine learning and artificial intelligence. 
 
 I'm also working as an Undergraduate Research Assistant, researching data visualization, predictive and impact analytics of the COVID-19 pandemic.
 
