@@ -11,3 +11,7 @@ I'm also working as an Undergraduate Research Assistant, researching data visual
 
 ## Open Source Work Stats 💻 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaoolucas)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoolucas)](https://github.com/anuraghazra/github-readme-stats)
