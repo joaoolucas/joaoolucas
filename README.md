@@ -8,8 +8,3 @@
 I am a student of Statistics and Data Science at the University of São Paulo (USP), currently studying data science, machine learning and artificial intelligence. 
 
 I'm also working as an Undergraduate Research Assistant, researching data visualization, predictive and impact analytics of the COVID-19 pandemic.
-
-## Stats of my Github profile
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaoolucas&show_icons=true&theme=radical))]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoolucas&show_icons=true&theme=radical))]
