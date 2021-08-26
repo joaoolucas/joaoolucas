@@ -1,6 +1,6 @@
 # Hello, I'm João Lucas 👋
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-liberato-a78594208/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](www.linkedin.com/in/liberato111)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100046698726845)
 
 ## About me ⌨️	
