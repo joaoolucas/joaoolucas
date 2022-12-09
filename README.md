@@ -1,6 +1,6 @@
 ## I'm João! :wave:
 
-- :hammer_and_pick: Solidity, Cairo, Python and Javascript
+- Tools: Solidity, Cairo, Python and Javascript
 - E-mail: joaolucasliberato4@gmail.com 
 
 <div align="center">
