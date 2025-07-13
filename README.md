@@ -12,4 +12,8 @@ A multi-talented full-stack developer and crypto degen from Brazil! My main focu
 - 🎯 2x Ethereum's Foundation hackathon winner
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaoolucas&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=joaoolucas&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
