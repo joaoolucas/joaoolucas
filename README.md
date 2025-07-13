@@ -10,3 +10,6 @@ A multi-talented full-stack developer and crypto degen from Brazil! My main focu
 - 💻 Founder @ [Ayame](https://www.ayame.live/)
 - ☕ Coffee lover, turning it into code
 - 🎯 2x Ethereum's Foundation hackathon winner
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaoolucas&theme=dark)](https://git.io/streak-stats)
