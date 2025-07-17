@@ -8,7 +8,6 @@ A multi-talented full-stack developer from Brazil! I have a background in Statis
 
 - 🐱 Full-stack Developer @ [Replicats](https://www.replicats.ai/)
 - 💻 Founder @ [Ayame](https://www.ayame.live/)
-- ☕ Coffee lover, turning it into code
 - 🧮 Deepening my expertise in quantitative finance and algorithmic strategies
 - 🎯 2x Ethereum's Foundation hackathon winner
 
