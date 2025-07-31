@@ -6,10 +6,6 @@
 
 A multi-talented full-stack developer from Brazil! I have a background in Statistics, and my main focus right now is to develop and contribute to Web3 and AI-powered applications.
 
-- 💻 Founder @ [Ayame](https://www.ayame.live/)
-- 🧮 Deepening my expertise in quantitative finance and algorithmic strategies
-- 🎯 2x Ethereum Foundation hackathon winner
-
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaoolucas&theme=highcontrast)](https://git.io/streak-stats)
