@@ -1,4 +1,4 @@
-# 👋 Hey, I'm João
+# 👋 Hey, I'm mortiee
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;AI+Engineer;Web3+Engineer;Technopreneur" alt="Typing SVG" />
